@@ -1,7 +1,8 @@
 # Backgound
-Current equipment qualification records are managed manually using spreadsheets through Excel, dragging pictures and forming tabls to generate similar tables day after day.
-Right now, the daily inspection tasks are tracked manually, leading to inefficiencies and risk of in consistency.
-Image evidence is stored separately, increasing report preparetion time.
+SAT equipment qualification records are currently prepared manually using Microsoft Excel.
+Inspection engineers manually copy data, drag and insert images, and reformat tables repeatedly to produce similar reports on a daily basis.
+Daily inspection tasks are tracked separately from reporting documents, resulting in limited visibility of progress and potential inconsistencies.
+Image evidence is stored independently from report files, which increases report preparation time and introduces risk of missing documentation.
 
 # Objective
 Develop a web-based system that:
