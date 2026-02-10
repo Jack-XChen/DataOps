@@ -33,5 +33,5 @@ Automated data consolidation and image embedding significantly reduce manual eff
 4. Enhanced Progress Visibility
 Real-time visualization of completed versus total inspection items improves transparency for engineers and project managers.
 
-## Improved Delivery Predictability
+5. Improved Delivery Predictability
 Better progress tracking and structured workflow reduce the risk of schedule overruns and improve on-time SAT report delivery.
