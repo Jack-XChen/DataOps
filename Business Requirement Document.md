@@ -20,19 +20,19 @@ Develop a web-based system that:
 ## Business Values
 Implementation of the SAT Inspection Automation System is expected to deliver the following business benefits:
 
-### 1.Reduced Report Preparation Time
+### 1. Reduced Report Preparation Time
  SAT projects typically require 3 to 5 weeks to complete, depending on equipment complexity.By automating task planning, data entry, and report generation, the overall project duration is expected to be reduced by approximately two weeks.
 
-### 2.Improved Task Planning and Resource Preparation
+### 2. Improved Task Planning and Resource Preparation
 Early visibility of daily inspection tasks enables proactive planning of required materials and test equipment, reducing delays caused by unprepared resources.
 
-### 3.Increased Efficiency in Documentation Handling
+### 3. Increased Efficiency in Documentation Handling
 Automated data consolidation and image embedding significantly reduce manual effort spent on formatting, image insertion, and repetitive table generation.
 
-### 4.Enhanced Progress Visibility
+### 4. Enhanced Progress Visibility
 Real-time visualization of completed versus total inspection items improves transparency for engineers and project managers.
 
-### 5.Improved Delivery Predictability
+### 5. Improved Delivery Predictability
 Better progress tracking and structured workflow reduce the risk of schedule overruns and improve on-time SAT report delivery.
 
 # Success Criteria
